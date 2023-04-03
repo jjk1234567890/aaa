@@ -22,7 +22,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 @Controller
 public class BoardController {
 	
-	// 비즈니스 모델을 컨트롤러에 연결하기
+	// 비즈니스 모델을 컨트롤러에 연결하기 fafaefawefawfwefawfewafawfawe
 	@Autowired
 	BoardService bs;
 
